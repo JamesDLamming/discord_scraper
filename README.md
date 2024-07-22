@@ -13,3 +13,7 @@ DISCORD_EMAIL='your-discord-email'
 DISCORD_PASSWORD='your-discord-password'
 GUILD_URL='the-url-of-the-guild-to-scrape'
 ```
+
+
+# Output
+This code will output a .csv file containing the Name, Username and About Me information from scraped users. This file will be saved in the same folder as the script is saved.
